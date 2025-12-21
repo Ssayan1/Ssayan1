@@ -6,17 +6,20 @@
 
 ---
 
-### ⭐ Featured Projects
+### 🚀 Featured Projects
 
-🔹 **docker-compose-production-app**  
-A production-grade microservices stack with:
-- Nginx ingress
-- Docker Compose services
-- Health checks & scaling
-- Prometheus monitoring  
-*(with Grafana dashboards)*
+#### 🐳 Docker Compose Production App
+A production-style microservices system demonstrating real DevOps practices:
 
-🔹 **[other pinned project]**
+- Multi-service Docker Compose architecture
+- Nginx ingress container (reverse proxy)
+- Backend horizontal scaling (`--scale`)
+- Health checks with restart policies
+- Prometheus metrics endpoint (`/metrics`)
+- Real failure handling (container restarts, unhealthy states)
+
+📌 **Tech:** Docker, Docker Compose, Nginx, Python, Prometheus  
+📌 **Focus:** Reliability, scalability, observability
 
 ---
 
