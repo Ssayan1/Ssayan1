@@ -1,5 +1,14 @@
-## 👋 Hi, I’m Sayan
+# 👋 Hi, I'm Sayan
+
 With hands-on experience in *infrastructure automation, containerization, and cloud deployment*.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayansanki199/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ssayan1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayan@example.com)
+
+---
+
+## 🚀 About Me
 
 - ✔ Automated AWS infrastructure using Terraform  
 - ✔ Built and deployed containerized applications  
@@ -12,71 +21,72 @@ With hands-on experience in *infrastructure automation, containerization, and cl
 
 ---
 
-## 🛠️ **Skills & Tools**  
+## 🛠️ Skills & Tools
 
-<p float="left">  
-  <a href="https://aws.amazon.com/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="80" alt="AWS"/>  
-  </a>  
-  <a href="https://www.linux.org/" target="_blank">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="80" alt="Linux"/>  
-  </a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank">  
-    <img src="https://cdn.iconscout.com/icon/free/png-256/bash-3629110-3030002.png" height="80" alt="Bash"/>  
-  </a>  
-  <a href="https://www.python.org/" target="_blank">  
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="85" alt="Python"/>  
-  </a>  
-  <a href="https://kubernetes.io/" target="_blank">  
-    <img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3629029-3030006.png" height="80" alt="Kubernetes"/>  
-  </a>  
-  <a href="https://www.docker.com/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="75" alt="Docker"/>  
-  </a>  
-  <a href="https://www.terraform.io/" target="_blank">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="80" alt="Terraform"/>  
-  </a>  
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="65" alt="CI/CD"/>  
-  </a>  
-</p>  
+### Languages & Tools
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Monitoring & CI/CD
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
 ## 🧪 Current Focus (Learning in Public)
 
-- 🔄 CI/CD using GitHub Actions  
-- 📊 Monitoring with Prometheus & Grafana  
-- 📦 Advanced Kubernetes (Ingress, Helm)  
-- 🔐 DevSecOps basics
+- 🔄 CI/CD Pipelines with GitHub Actions  
+- 📊 Monitoring & Observability (Prometheus & Grafana)  
+- 📦 Advanced Kubernetes (Ingress, Helm Charts)  
+- 🔐 DevSecOps & Security Best Practices
+
 ---
+
 ## 📈 What I'm Working Towards
 
-- Transitioning into *DevOps Engineer role*
-- Building *production-level projects*
+- Transitioning into *Senior DevOps Engineer role*
+- Building *production-level infrastructure projects*
 - Integrating *security into DevOps (DevSecOps)*
-  
+- Contributing to *open-source DevOps tools*
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ssayan1&color=blueviolet&style=for-the-badge&color=892BE2&label=+%F0%9F%91%80+MY+PROFILE+VISITS+)
-<p align="">
-  <a href="https://github.com/Ssayan1">
-  </a>
-   <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=892BE2&text_color=fff&icon_color=892BE2&bg_color=000000&border_color=892BE2" alt="Sayan's Github Stats">
-  
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssayan1&bg_color=000000&color=892BE2&line=892BE2&point=ffffff&area=true&hide_border=true"/>
-   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&layout=compact&title_color=892BE2&text_color=ffffff&bg_color=000000&border_color=892BE2"/>
-   </p>
 
-### 📫 Contact
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=892BE2&text_color=fff&icon_color=892BE2&bg_color=141d26&border_color=892BE2"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&layout=compact&title_color=892BE2&text_color=ffffff&bg_color=141d26&border_color=892BE2"/>
+</div>
 
-<p align="">
-  <a href="https://www.linkedin.com/in/sayansanki199/">LinkedIn</a> •
-  <a href="mailto:your-email@gmail.com">Email</a> •
-  <a href="https://your-portfolio-link.com">Portfolio</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssayan1&bg_color=141d26&color=892BE2&line=892BE2&point=ffffff&area=true&hide_border=true"/>
+</div>
 
 ---
 
+## 📫 Get In Touch
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/sayansanki199/) • [GitHub](https://github.com/Ssayan1) • [Email](mailto:sayan@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *Always open to collaborating on DevOps & Cloud projects!*
+
+</div>
