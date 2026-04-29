@@ -1,3 +1,14 @@
+### 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ssayan1&color=blueviolet&style=for-the-badge&color=892BE2&label=+%F0%9F%91%80+MY+PROFILE+VISITS+)
+
+<a href="https://github.com/Ssayan1">
+  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=892BE2&text_color=fff&icon_color=892BE2&bg_color=000000&border_color=892BE2" alt="Sayan's Github Stats">
+</a>
+<a href="https://github.com/Ssayan1">
+  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&langs_count=2&title_color=892BE2&text_color=fff&icon_color=892BE2&bg_color=000000&border_color=892BE2&card_width=400" alt="Ssayan1's Github Stats" />
+</a>
+
 ## 👋 Hi, I’m Sayan
 
 **Junior DevOps / Cloud Engineer**  
@@ -66,3 +77,5 @@ A production-style microservices system demonstrating real DevOps practices:
 
 LinkedIn: https://www.linkedin.com/in/sayansanki199/ 
 Email: sayansanki1997@gmail.com
+
+---
