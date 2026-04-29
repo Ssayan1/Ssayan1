@@ -1,15 +1,10 @@
-### 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ssayan1&color=blueviolet&style=for-the-badge&color=892BE2&label=+%F0%9F%91%80+MY+PROFILE+VISITS+)
-
-<a href="https://github.com/Ssayan1">
-  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=892BE2&text_color=fff&icon_color=892BE2&bg_color=000000&border_color=892BE2" alt="Sayan's Github Stats">
-</a>
-<a href="https://github.com/Ssayan1">
-  <img align="center" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&langs_count=2&title_color=892BE2&text_color=fff&icon_color=892BE2&bg_color=000000&border_color=892BE2&card_width=400" alt="Ssayan1's Github Stats" />
-</a>
-
 ## 👋 Hi, I’m Sayan
+With hands-on experience in *infrastructure automation, containerization, and cloud deployment*.
+
+- ✔ Automated AWS infrastructure using Terraform  
+- ✔ Built and deployed containerized applications  
+- ✔ Practiced Kubernetes orchestration and scaling  
+- ✔ Exploring DevSecOps (security + DevOps integration)
 
 **Junior DevOps / Cloud Engineer**  
 💻 Docker, Nginx, Prometheus, Grafana, Linux, Networking  
@@ -17,24 +12,7 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🐳 Docker Compose Production App
-A production-style microservices system demonstrating real DevOps practices:
-
-- Multi-service Docker Compose architecture
-- Nginx ingress container (reverse proxy)
-- Backend horizontal scaling (`--scale`)
-- Health checks with restart policies
-- Prometheus metrics endpoint (`/metrics`)
-- Real failure handling (container restarts, unhealthy states)
-
-📌 **Tech:** Docker, Docker Compose, Nginx, Python, Prometheus  
-📌 **Focus:** Reliability, scalability, observability
-
----
-
-### 🛠️ **Skills & Tools**  
+## 🛠️ **Skills & Tools**  
 
 <p float="left">  
   <a href="https://aws.amazon.com/" target="_blank">  
@@ -63,19 +41,42 @@ A production-style microservices system demonstrating real DevOps practices:
   </a>  
 </p>  
 
----  
-
-### 📌 Currently Learning
-
-☸️ Kubernetes  
-📦 CI/CD (GitHub Actions)  
-☁️ Cloud infrastructure (AWS)
-
 ---
+
+## 🧪 Current Focus (Learning in Public)
+
+- 🔄 CI/CD using GitHub Actions  
+- 📊 Monitoring with Prometheus & Grafana  
+- 📦 Advanced Kubernetes (Ingress, Helm)  
+- 🔐 DevSecOps basics
+---
+## 📈 What I'm Working Towards
+
+- Transitioning into *DevOps Engineer role*
+- Building *production-level projects*
+- Integrating *security into DevOps (DevSecOps)*
+  
+---
+
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ssayan1&color=blueviolet&style=for-the-badge&color=892BE2&label=+%F0%9F%91%80+MY+PROFILE+VISITS+)
+<p align="">
+  <a href="https://github.com/Ssayan1">
+  </a>
+   <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=892BE2&text_color=fff&icon_color=892BE2&bg_color=000000&border_color=892BE2" alt="Sayan's Github Stats">
+  
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssayan1&bg_color=000000&color=892BE2&line=892BE2&point=ffffff&area=true&hide_border=true"/>
+   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&layout=compact&title_color=892BE2&text_color=ffffff&bg_color=000000&border_color=892BE2"/>
+   </p>
 
 ### 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/sayansanki199/ 
-Email: sayansanki1997@gmail.com
+<p align="">
+  <a href="https://www.linkedin.com/in/sayansanki199/">LinkedIn</a> •
+  <a href="mailto:your-email@gmail.com">Email</a> •
+  <a href="https://your-portfolio-link.com">Portfolio</a>
+</p>
 
 ---
+
