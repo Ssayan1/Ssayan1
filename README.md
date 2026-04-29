@@ -70,8 +70,15 @@ With hands-on experience in *infrastructure automation, containerization, and cl
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ssayan1&bg_color=141d26&color=892BE2&line=892BE2&point=ffffff&area=true&hide_border=true"/>
+  <div class="grid grid-cols-2 gap-4">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ssayan1&theme=dark-smoky&hide_border=false" alt="Sayan's GitHub Streak" width="51%" />
+  </div>
+  <div class="grid grid-cols-2 gap-4 mt-4">
+
+  </div>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 ---
 
