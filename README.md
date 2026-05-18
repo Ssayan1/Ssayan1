@@ -125,9 +125,8 @@ PID   PROCESS                          CPU%   STATUS
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ssayan1&count_private=true&show_icons=true&title_color=00BFBF&text_color=ffffff&icon_color=00BFBF&bg_color=141d26&border_color=00BFBF)](https://github.com/Ssayan1)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ssayan1&layout=compact&title_color=00BFBF&text_color=ffffff&bg_color=141d26&border_color=00BFBF)](https://github.com/Ssayan1)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ssayan1&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ssayan1&theme=github_dark)
 
 </div>
 
