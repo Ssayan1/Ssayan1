@@ -117,9 +117,9 @@ PID   PROCESS                          CPU%   STATUS
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=00BFBF&text_color=fff&icon_color=00BFBF&bg_color=141d26&border_color=00BFBF)](https://github.com/Ssayan1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=00BFBF&text_color=ffffff&icon_color=00BFBF&bg_color=141d26&border_color=00BFBF&hide_border=false)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&layout=compact&title_color=00BFBF&text_color=fff&bg_color=141d26&border_color=00BFBF)](https://github.com/Ssayan1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&layout=compact&title_color=00BFBF&text_color=ffffff&bg_color=141d26&border_color=00BFBF&langs_count=8)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ssayan1&theme=dark-smoky&hide_border=false&ring=00BFBF&fire=FF6B35&currStreakLabel=00BFBF)](https://github.com/Ssayan1)
 
