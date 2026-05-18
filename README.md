@@ -137,16 +137,16 @@ PID   PROCESS                          CPU%   STATUS
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ssayan1&theme=dark-smoky&hide_border=false&ring=00BFBF&fire=FF6B35&currStreakLabel=00BFBF)](https://github.com/Ssayan1)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ssayan1&bg_color=141d26&color=00BFBF&line=00BFBF&point=FF6B35&area=true&hide_border=false)](https://github.com/Ssayan1)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ssayan1&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ssayan1&theme=github_dark)
 
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ssayan1&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ssayan1&theme=github_dark)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ssayan1&theme=dark-smoky&hide_border=false&ring=00BFBF&fire=FF6B35&currStreakLabel=00BFBF)](https://github.com/Ssayan1)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ssayan1&bg_color=141d26&color=00BFBF&line=00BFBF&point=FF6B35&area=true&hide_border=false)](https://github.com/Ssayan1)
 
 </div>
 
