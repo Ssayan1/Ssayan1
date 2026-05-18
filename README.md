@@ -1,116 +1,158 @@
-# 👋 Hi, I'm Sayan
+<div align="center">
 
-With hands-on experience in *infrastructure automation, containerization, and cloud deployment*.
+<!-- Animated Terminal Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami+%E2%86%92+Sayan+Sanki;%24+role+%E2%86%92+Junior+DevOps+%7C+Cloud+Engineer" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayansanki199/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ssayan1)
+<br/>
+
+<!-- Snake animation on contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ssayan1/Ssayan1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ssayan1/Ssayan1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ssayan1/Ssayan1/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+```bash
+┌──(sayan㉿devops-lab)-[~]
+└─$ cat about.txt
+```
+
+```yaml
+name        : Sayan Sanki
+location    : Kolkata, India 🇮🇳
+role        : Junior DevOps / Cloud Engineer
+status      : 🟢 Open to Work
+focus       : Infrastructure Automation · CI/CD · Observability · Cloud
+learning    : Kubernetes (CKA path) · DevSecOps · Helm · ArgoCD
+superpower  : Making servers do what I tell them to (mostly)
+```
+
+---
+
+## `$ ls -la /skills`
+
+```bash
+┌──(sayan㉿devops-lab)-[~]
+└─$ cat skills.sh | grep -v "# TODO"
+```
+
+**☁️ Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+**🐳 Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+
+**🔁 CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+
+**📊 Monitoring & Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+**🔐 Networking & Security**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-E91E63?style=for-the-badge&logo=nmap&logoColor=white)
+
+**💻 Languages & Scripting**
+
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+## `$ cat projects.log | tail -5`
+
+```
+[2026-05-18] linux-server-automation-scripts → backup, health monitor, SSL checker, Telegram alerts, AWS S3
+[2026-05-18] flask-k8s-eks                   → Flask app deployed on AWS EKS via Kubernetes
+[2026-05-18] docker-compose-production-app   → Production-ready multi-service Docker Compose stack
+[2026-05-18] DevOps-Portfolio-v1             → CI/CD with GitHub Actions, auto-deploy to GitHub Pages
+[2026-05-18] Instagram-Follower-Bot          → Python + Selenium automation bot ⭐
+```
+
+| Project | Stack | What it does |
+|---|---|---|
+| [linux-server-automation-scripts](https://github.com/Ssayan1/linux-server-automation-scripts) | Python · Bash · AWS S3 | Production server automation: backup, health, SSL, firewall audit, Telegram alerts |
+| [flask-k8s-eks](https://github.com/Ssayan1/flask-k8s-eks) | Python · K8s · AWS EKS | Flask app deployed to AWS EKS — real cloud orchestration |
+| [docker-compose-production-app](https://github.com/Ssayan1/docker-compose-production-app) | Docker · Python | Multi-service production stack with Docker Compose |
+| [DevOps-Portfolio-v1](https://github.com/Ssayan1/DevOps-Portfolio-v1) | GitHub Actions · JS | CI/CD pipeline auto-deploying portfolio to GitHub Pages |
+
+---
+
+## `$ htop` — Current Processes
+
+```
+PID   PROCESS                          CPU%   STATUS
+001   learning-kubernetes-cka          ████░  IN PROGRESS
+002   devSecOps-integration            ███░░  IN PROGRESS  
+003   helm-chart-mastery               ██░░░  IN PROGRESS
+004   open-source-contribution         █░░░░  STARTING
+005   senior-devops-engineer           ░░░░░  QUEUED
+```
+
+---
+
+## `$ git log --oneline --graph` - Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=00BFBF&text_color=fff&icon_color=00BFBF&bg_color=141d26&border_color=00BFBF)](https://github.com/Ssayan1)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&layout=compact&title_color=00BFBF&text_color=fff&bg_color=141d26&border_color=00BFBF)](https://github.com/Ssayan1)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ssayan1&theme=dark-smoky&hide_border=false&ring=00BFBF&fire=FF6B35&currStreakLabel=00BFBF)](https://github.com/Ssayan1)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ssayan1&bg_color=141d26&color=00BFBF&line=00BFBF&point=FF6B35&area=true&hide_border=false)](https://github.com/Ssayan1)
+
+</div>
+
+---
+
+## `$ ping sayan --connect`
+
+```bash
+┌──(sayan㉿devops-lab)-[~]
+└─$ curl -X GET /contact
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sayansanki199-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayansanki199/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ssayan1-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ssayan1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayan@example.com)
 
----
-
-## 🚀 About Me
-
-- ✔ Automated AWS infrastructure using Terraform  
-- ✔ Built and deployed containerized applications  
-- ✔ Practiced Kubernetes orchestration and scaling  
-- ✔ Exploring DevSecOps (security + DevOps integration)
-
-**Junior DevOps / Cloud Engineer**  
-💻 Docker, Nginx, Prometheus, Grafana, Linux, Networking  
-☁️ Learning Kubernetes & Cloud fundamentals
-
----
-
-## 🛠️ Skills & Tools
-
-### Languages & Tools
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Monitoring & CI/CD
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### Networking & Security
-![Nmap](https://img.shields.io/badge/Nmap-E91E63?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
-### Infrastructure & Databases
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 🧪 Current Focus (Learning in Public)
-
-- 🔄 CI/CD Pipelines with GitHub Actions  
-- 📊 Monitoring & Observability (Prometheus & Grafana)  
-- 📦 Advanced Kubernetes (Ingress, Helm Charts)  
-- 🔐 DevSecOps & Security Best Practices
-
----
-
-## 📈 What I'm Working Towards
-
-- Transitioning into *Senior DevOps Engineer role*
-- Building *production-level infrastructure projects*
-- Integrating *security into DevOps (DevSecOps)*
-- Contributing to *open-source DevOps tools*
-
----
-
-## 📊 GitHub Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ssayan1&color=blueviolet&style=for-the-badge&color=892BE2&label=+%F0%9F%91%80+MY+PROFILE+VISITS+)
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ssayan1&count_private=true&include_all_commits=true&show_icons=true&title_color=892BE2&text_color=fff&icon_color=892BE2&bg_color=141d26&border_color=892BE2"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssayan1&layout=compact&title_color=892BE2&text_color=ffffff&bg_color=141d26&border_color=892BE2"/>
-</div>
-
-<div align="center">
-  <div class="grid grid-cols-2 gap-4">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ssayan1&theme=dark-smoky&hide_border=false" alt="Sayan's GitHub Streak" width="51%" />
-  </div>
-  <div class="grid grid-cols-2 gap-4 mt-4">
-
-  </div>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/sayansanki199/) • [GitHub](https://github.com/Ssayan1) • [Email](mailto:sayan@example.com)
-
 </div>
 
 ---
 
 <div align="center">
 
-💡 *Always open to collaborating on DevOps & Cloud projects!*
+[![Profile Views](https://komarev.com/ghpvc/?username=Ssayan1&color=00bfbf&style=for-the-badge&label=👁️+PROFILE+VIEWS)](https://github.com/Ssayan1)
+
+```bash
+$ echo "Thanks for visiting — let's build something cool together 🚀"
+Thanks for visiting — let's build something cool together 🚀
+```
 
 </div>
-
