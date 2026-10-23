@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- Animated Terminal Header -->
+<!-- Animated Terminal Header
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFBF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami+%E2%86%92+Sayan+Sanki;%24+role+%E2%86%92+Junior+DevOps+%7C+Cloud+Engineer" alt="Typing SVG" />
 
 <br/>
+ -->
 
-<!-- Snake animation on contribution graph -->
+<!-- Snake animation on contribution graph 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ssayan1/Ssayan1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ssayan1/Ssayan1/output/github-snake.svg" />
@@ -13,13 +14,15 @@
 </picture>
 
 </div>
-
+ -->
+<!--
 ---
 
 ```bash
 ┌──(sayan㉿devops-lab)-[~]
 └─$ cat about.txt
 ```
+ -->
 
 ```yaml
 name        : Sayan Sanki
